@@ -1,5 +1,5 @@
 # App Store Setup Documentation
-Setting up an App Store for Google and Apple
 
-- [Setting in the Apple Developer Program](docs/apple.md)
-- [Setting in the Google Play Console](docs/google.md)
+- [Setting up a D‑U‑N‑S Number](docs/duns.md) - This is required before doing anything.
+- [Setting up the Apple Developer Program](docs/apple.md)
+- [Setting up the Google Play Console](docs/google.md)
